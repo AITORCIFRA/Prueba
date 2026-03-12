@@ -1,0 +1,2 @@
+* * * * * /usr/bin/python3 /app/app.py >> /app/datos/cron.log 2>&1
+* * * * * /usr/bin/python3 /app/healthcheck.py >> /app/datos/cron.log 2>&1
