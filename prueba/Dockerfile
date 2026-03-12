@@ -1,9 +1,9 @@
-FROM node:20-alpine
+FROM python:3.12-alpine
 
 RUN apk add --no-cache \
     python3 \
     py3-pip \
-    dcron \
+    busybox \
     sqlite \
     sqlite-dev \
     ca-certificates \
@@ -12,15 +12,10 @@ RUN apk add --no-cache \
 WORKDIR /app
 
 COPY requirements.txt ./
-RUN pip3 install --no-cache-dir -r requirements.txt --break-system-packages
-
-COPY package*.json ./
-RUN npm install
+RUN pip install --no-cache-dir -r requirements.txt --break-system-packages
 
 COPY . .
 
-RUN chmod 0644 crontab && crontab crontab
+RUN chmod 0644 cron-jobs && crontab cron-jobs
 
-EXPOSE 3000
-
-CMD ["sh", "-c", "crond && npm run dev"]
+CMD ["/usr/sbin/crond", "-f", "-L", "/dev/stdout"]

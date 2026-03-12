@@ -1,32 +1,9 @@
 services:
-  db:
-    image: postgres:16
-    restart: unless-stopped
-    environment:
-      POSTGRES_USER: usuario
-      POSTGRES_PASSWORD: tu_contraseña_segura
-      POSTGRES_DB: usuarios
-    ports:
-      - "5434:5432"
-    volumes:
-      - postgres-data:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U usuario"]
-      interval: 5s
-      timeout: 5s
-      retries: 5
-
   app:
     build: .
     restart: unless-stopped
     expose:
       - "3000"
-    environment:
-      - NODE_ENV=development
-      - DATABASE_URL=postgres://usuario:tu_contraseña_segura@db:5432/usuarios
-    depends_on:
-      db:
-        condition: service_healthy
     volumes:
       - .:/app
       - /app/node_modules
@@ -36,13 +13,10 @@ services:
     image: nginx:alpine
     restart: unless-stopped
     ports:
-      - "80:80"
-      - "443:443"
+      - "8080:80"           
+      - "8443:443"         
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
       - ./nginx/ssl:/etc/nginx/ssl:ro
     depends_on:
       - app
-
-volumes:
-  postgres-data:

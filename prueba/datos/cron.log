@@ -65,3 +65,165 @@ ModuleNotFoundError: No module named 'requests'
 [2026-03-12T09:20:01.682814] Health check → Status: 200
 [2026-03-12T09:21:01.899413] Registro insertado: Prueba automática 2026-03-12T09:21:01.899413
 [2026-03-12T09:21:02.013836] Health check → Status: 200
+[2026-03-12T09:22:01.288342] Registro insertado: Prueba automática 2026-03-12T09:22:01.288342
+[2026-03-12T09:22:01.404104] Health check → Status: 200
+[2026-03-12T09:23:01.620640] Registro insertado: Prueba automática 2026-03-12T09:23:01.620640
+[2026-03-12T09:23:01.743511] Health check → Status: 200
+[2026-03-12T09:24:01.956361] Registro insertado: Prueba automática 2026-03-12T09:24:01.956361
+[2026-03-12T09:24:02.079612] Health check → Status: 200
+[2026-03-12T09:25:01.304677] Registro insertado: Prueba automática 2026-03-12T09:25:01.304677
+[2026-03-12T09:25:01.418953] Health check → Status: 200
+[2026-03-12T09:26:01.857144] Registro insertado: Prueba automática 2026-03-12T09:26:01.857144
+[2026-03-12T09:26:01.971543] Health check → Status: 0
+[2026-03-12T09:27:01.019973] Registro insertado: Prueba automática 2026-03-12T09:27:01.019973
+[2026-03-12T09:27:01.137145] Health check → Status: 200
+[2026-03-12T09:28:01.412981] Registro insertado: Prueba automática 2026-03-12T09:28:01.412981
+[2026-03-12T09:28:01.529731] Health check → Status: 200
+[2026-03-12T09:29:01.837171] Registro insertado: Prueba automática 2026-03-12T09:29:01.837171
+[2026-03-12T09:29:01.949776] Health check → Status: 200
+[2026-03-12T09:30:01.167170] Registro insertado: Prueba automática 2026-03-12T09:30:01.167170
+[2026-03-12T09:30:01.283295] Health check → Status: 200
+[2026-03-12T09:31:01.532756] Registro insertado: Prueba automática 2026-03-12T09:31:01.532756
+[2026-03-12T09:31:01.645530] Health check → Status: 0
+[2026-03-12T09:32:01.697644] Registro insertado: Prueba automática 2026-03-12T09:32:01.697644
+[2026-03-12T09:32:01.811863] Health check → Status: 200
+[2026-03-12T09:33:01.055656] Registro insertado: Prueba automática 2026-03-12T09:33:01.055656
+[2026-03-12T09:33:01.169371] Health check → Status: 200
+[2026-03-12T09:34:01.382832] Registro insertado: Prueba automática 2026-03-12T09:34:01.382832
+[2026-03-12T09:34:01.496338] Health check → Status: 200
+[2026-03-12T09:35:01.714139] Registro insertado: Prueba automática 2026-03-12T09:35:01.714139
+[2026-03-12T09:35:01.831864] Health check → Status: 200
+[2026-03-12T09:36:01.050338] Registro insertado: Prueba automática 2026-03-12T09:36:01.050338
+[2026-03-12T09:36:01.160596] Health check → Status: 200
+[2026-03-12T09:37:01.376171] Registro insertado: Prueba automática 2026-03-12T09:37:01.376171
+[2026-03-12T09:37:01.485718] Health check → Status: 200
+[2026-03-12T09:38:01.702635] Registro insertado: Prueba automática 2026-03-12T09:38:01.702635
+[2026-03-12T09:38:01.813337] Health check → Status: 200
+[2026-03-12T09:39:01.031478] Registro insertado: Prueba automática 2026-03-12T09:39:01.031478
+[2026-03-12T09:39:01.143792] Health check → Status: 200
+[2026-03-12T09:40:01.358328] Registro insertado: Prueba automática 2026-03-12T09:40:01.358328
+[2026-03-12T09:40:01.469603] Health check → Status: 200
+[2026-03-12T09:41:01.721599] Registro insertado: Prueba automática 2026-03-12T09:41:01.721599
+[2026-03-12T09:41:01.834594] Health check → Status: 200
+[2026-03-12T09:42:01.104867] Registro insertado: Prueba automática 2026-03-12T09:42:01.104867
+[2026-03-12T09:42:01.218246] Health check → Status: 200
+[2026-03-12T09:43:01.465688] Registro insertado: Prueba automática 2026-03-12T09:43:01.465688
+[2026-03-12T09:43:01.576342] Health check → Status: 200
+[2026-03-12T09:44:01.792176] Registro insertado: Prueba automática 2026-03-12T09:44:01.792176
+[2026-03-12T09:44:01.912640] Health check → Status: 200
+[2026-03-12T09:45:01.161191] Registro insertado: Prueba automática 2026-03-12T09:45:01.161191
+[2026-03-12T09:45:01.273121] Health check → Status: 0
+[2026-03-12T09:46:01.327202] Registro insertado: Prueba automática 2026-03-12T09:46:01.327202
+[2026-03-12T09:46:01.439074] Health check → Status: 200
+[2026-03-12T09:47:01.685241] Registro insertado: Prueba automática 2026-03-12T09:47:01.685241
+[2026-03-12T09:47:01.798163] Health check → Status: 200
+[2026-03-12T09:48:02.015762] Registro insertado: Prueba automática 2026-03-12T09:48:02.015762
+[2026-03-12T09:48:02.129119] Health check → Status: 200
+[2026-03-12T09:49:01.345405] Registro insertado: Prueba automática 2026-03-12T09:49:01.345405
+[2026-03-12T09:49:01.455197] Health check → Status: 200
+[2026-03-12T09:50:01.674118] Registro insertado: Prueba automática 2026-03-12T09:50:01.674118
+[2026-03-12T09:50:01.785165] Health check → Status: 200
+[2026-03-12T09:51:01.997055] Registro insertado: Prueba automática 2026-03-12T09:51:01.997055
+[2026-03-12T09:51:02.111267] Health check → Status: 200
+[2026-03-12T09:52:01.328011] Registro insertado: Prueba automática 2026-03-12T09:52:01.328011
+[2026-03-12T09:52:01.439408] Health check → Status: 200
+[2026-03-12T09:53:01.650675] Registro insertado: Prueba automática 2026-03-12T09:53:01.650675
+[2026-03-12T09:53:01.765303] Health check → Status: 200
+[2026-03-12T09:54:01.981635] Registro insertado: Prueba automática 2026-03-12T09:54:01.981635
+[2026-03-12T09:54:02.099578] Health check → Status: 200
+[2026-03-12T09:55:01.325630] Registro insertado: Prueba automática 2026-03-12T09:55:01.325630
+[2026-03-12T09:55:01.436116] Health check → Status: 200
+[2026-03-12T09:56:01.654614] Registro insertado: Prueba automática 2026-03-12T09:56:01.654614
+[2026-03-12T09:56:01.765402] Health check → Status: 200
+[2026-03-12T09:57:01.979550] Registro insertado: Prueba automática 2026-03-12T09:57:01.979550
+[2026-03-12T09:57:02.090479] Health check → Status: 200
+[2026-03-12T09:58:01.305833] Registro insertado: Prueba automática 2026-03-12T09:58:01.305833
+[2026-03-12T09:58:01.418003] Health check → Status: 200
+[2026-03-12T09:59:01.644710] Registro insertado: Prueba automática 2026-03-12T09:59:01.644710
+[2026-03-12T09:59:01.779831] Health check → Status: 200
+[2026-03-12T10:00:02.002695] Registro insertado: Prueba automática 2026-03-12T10:00:02.002695
+[2026-03-12T10:00:02.148148] Health check → Status: 200
+[2026-03-12T10:01:01.365389] Registro insertado: Prueba automática 2026-03-12T10:01:01.365389
+[2026-03-12T10:01:01.485023] Health check → Status: 0
+[2026-03-12T10:02:01.536628] Registro insertado: Prueba automática 2026-03-12T10:02:01.536628
+[2026-03-12T10:02:01.656559] Health check → Status: 200
+[2026-03-12T10:03:01.908959] Registro insertado: Prueba automática 2026-03-12T10:03:01.908959
+[2026-03-12T10:03:02.021844] Health check → Status: 200
+[2026-03-12T10:04:01.234595] Registro insertado: Prueba automática 2026-03-12T10:04:01.234595
+[2026-03-12T10:04:01.344146] Health check → Status: 200
+[2026-03-12T10:05:01.575406] Registro insertado: Prueba automática 2026-03-12T10:05:01.575406
+[2026-03-12T10:05:01.685928] Health check → Status: 200
+[2026-03-12T10:06:01.126258] Registro insertado: Prueba automática 2026-03-12T10:06:01.126258
+[2026-03-12T10:06:01.235527] Health check → Status: 200
+[2026-03-12T10:07:01.494737] Registro insertado: Prueba automática 2026-03-12T10:07:01.494737
+[2026-03-12T10:07:01.610897] Health check → Status: 200
+[2026-03-12T10:08:01.920589] Registro insertado: Prueba automática 2026-03-12T10:08:01.920589
+[2026-03-12T10:08:02.047258] Health check → Status: 200
+[2026-03-12T10:09:01.251886] Registro insertado: Prueba automática 2026-03-12T10:09:01.251886
+[2026-03-12T10:09:01.362302] Health check → Status: 200
+[2026-03-12T10:10:01.578648] Registro insertado: Prueba automática 2026-03-12T10:10:01.578648
+[2026-03-12T10:10:01.690108] Health check → Status: 200
+[2026-03-12T10:11:01.902265] Registro insertado: Prueba automática 2026-03-12T10:11:01.902265
+[2026-03-12T10:11:02.014284] Health check → Status: 200
+[2026-03-12T10:12:01.269498] Registro insertado: Prueba automática 2026-03-12T10:12:01.269498
+[2026-03-12T10:12:01.383343] Health check → Status: 200
+[2026-03-12T10:13:01.627801] Registro insertado: Prueba automática 2026-03-12T10:13:01.627801
+[2026-03-12T10:13:01.740487] Health check → Status: 200
+[2026-03-12T10:14:01.962625] Registro insertado: Prueba automática 2026-03-12T10:14:01.962625
+[2026-03-12T10:14:02.074313] Health check → Status: 200
+[2026-03-12T10:15:01.297913] Registro insertado: Prueba automática 2026-03-12T10:15:01.297913
+[2026-03-12T10:15:01.430696] Health check → Status: 200
+[2026-03-12T10:16:01.680370] Registro insertado: Prueba automática 2026-03-12T10:16:01.680370
+[2026-03-12T10:16:01.803271] Health check → Status: 200
+[2026-03-12T10:17:02.017567] Registro insertado: Prueba automática 2026-03-12T10:17:02.017567
+[2026-03-12T10:17:02.138224] Health check → Status: 200
+[2026-03-12T10:18:01.358523] Registro insertado: Prueba automática 2026-03-12T10:18:01.358523
+[2026-03-12T10:18:01.474884] Health check → Status: 200
+[2026-03-12T10:19:01.718905] Registro insertado: Prueba automática 2026-03-12T10:19:01.718905
+[2026-03-12T10:19:01.830820] Health check → Status: 200
+[2026-03-12T10:20:01.079247] Registro insertado: Prueba automática 2026-03-12T10:20:01.079247
+[2026-03-12T10:20:01.216374] Health check → Status: 200
+[2026-03-12T10:21:01.437710] Registro insertado: Prueba automática 2026-03-12T10:21:01.437710
+[2026-03-12T10:21:01.562659] Health check → Status: 200
+[2026-03-12T10:22:01.784597] Registro insertado: Prueba automática 2026-03-12T10:22:01.784597
+[2026-03-12T10:22:01.938750] Health check → Status: 200
+[2026-03-12T10:23:01.290867] Registro insertado: Prueba automática 2026-03-12T10:23:01.290867
+[2026-03-12T10:23:01.414769] Health check → Status: 200
+[2026-03-12T10:24:01.632227] Registro insertado: Prueba automática 2026-03-12T10:24:01.632227
+[2026-03-12T10:24:01.756021] Health check → Status: 200
+[2026-03-12T10:25:01.989512] Registro insertado: Prueba automática 2026-03-12T10:25:01.989512
+[2026-03-12T10:25:02.141483] Health check → Status: 200
+[2026-03-12T10:26:01.793401] Registro insertado: Prueba automática 2026-03-12T10:26:01.793401
+[2026-03-12T10:26:01.914892] Health check → Status: 200
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/app/healthcheck.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
